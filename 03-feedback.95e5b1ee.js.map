@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/03-feedback.js"],"names":["formEl","document","querySelector","console","log"],"mappings":";AAAA,MAAMA,EAASC,SAASC,cAAc,kBACtCC,QAAQC","file":"03-feedback.95e5b1ee.js","sourceRoot":"../src","sourcesContent":["const formEl = document.querySelector(\".feedback-form\");\nconsole.log()\n"]}
